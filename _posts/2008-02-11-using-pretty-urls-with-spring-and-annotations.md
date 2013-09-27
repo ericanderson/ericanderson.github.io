@@ -22,15 +22,15 @@ If you notice on blogs or other sites they have something called “pretty urls�
 
 Specify your url on your method like so:
 
-[gist id=805060]
+{% gist 805060 %}
 
 Now all we need to do is pull out the part of the URL that has whats in the star. I’ve created the following class to assist in this manner:
 
-[gist id=805063]
+{% gist 805063 %}
 
 So equipped with this class, you only have to do the following:
 
-[gist id=805067]
+{% gist 805067 %}
 
 Note: This will also (sort of) work if you have a url like: <code>"/post/*/*/"</code> (the array will have a length of 2). However, if you get <code>"/post/welcome/"</code> as the URL from the user, <code>breakUri()</code> will return null, in which case you might want to check for <code>"/post/*/"</code>.
 
@@ -38,6 +38,6 @@ Now, this code isn’t very complex but it does allow you to deal with pretty ur
 
 Finally, I’ve put <a href="http://jira.springframework.org/browse/SPR-4451">a request</a> into the fine folks that develop the Spring Framework to include this type of functionality out of the box so your method could be something like:
 
-[gist id=805070]
+{% gist 805070 %}
 
 Please go <a href="http://jira.springframework.org/browse/SPR-4451">vote for that feature</a> at Spring’s issue tracking database.

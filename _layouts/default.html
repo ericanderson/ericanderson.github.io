@@ -1,44 +1,65 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+    <!-- Custom CSS 
+    <link rel="stylesheet" href="/css/main.css"> -->
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/site.css">
 
-    </head>
-    <body>
+  </head>
+  <body>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
+    <header id="masthead" class="site-header" role="banner">
+      <div class="container">
 
+        <div class="gravatar">
+          <!-- <?php
+            // grab admin email and their photo
+            $admin_email = get_option('admin_email');
+            echo get_avatar( $admin_email, 100 );
+          ?> -->
+        </div><!--/ author -->
+
+        <div id="brand">
+          <h1 class="site-title"><a href="/" title="{{ site.name }}" rel="home">{{ site.name }}</a> &mdash; <span>{{ site.description }}</span></h1>
+        </div><!-- /brand -->
+
+        <nav role="navigation" class="site-navigation main-navigation">
+          <ul id="menu-main-nav" class="menu">
+            <li><a href="/about/">About</a></li>
+          </ul>
+        </nav><!-- .site-navigation .main-navigation -->
+
+        <div class="clear"></div>
+      </div><!--/container -->
+
+    </header><!-- #masthead .site-header -->
+
+    <div class="container">
+
+      <div id="primary">
+        <div id="content" role="main">
           {{ content }}
+        </div><!-- #content .site-content -->
+      </div><!-- #primary .content-area -->
 
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
+    </div><!-- / container-->
 
-    </body>
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-info container">
+
+        <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress</a>
+        <span class="sep"> and </span>
+        <a href="http://lessmade.com/themes/less" rel="theme">LESS</a> by <a href="http://jarederickson.com" rel="designer">Jared Erickson</a>
+      </div><!-- .site-info -->
+    </footer><!-- #colophon .site-footer -->
+  </body>
 </html>
