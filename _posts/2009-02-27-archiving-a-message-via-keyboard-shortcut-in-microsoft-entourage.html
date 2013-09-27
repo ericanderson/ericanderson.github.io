@@ -1,0 +1,22 @@
+---
+layout: post
+title: Archiving a message via keyboard shortcut in Microsoft Entourage
+categories: []
+tags:
+- AppleScript
+- OS X
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _wp_old_slug: ''
+---
+<p>This has been driving me nuts for a long time and I finally figured out the applescript for this so I figured I should share.</p>
+<p>The script is:</p>
+<script src="https://gist.github.com/760535.js?file=gistfile1.scpt"></script>
+<p>This script assumes you have an exchange account and a folder in that exchange account you want to use.</p>
+<p>If you want to use an archive folder that is a subfolder of another folder, you&rsquo;ll want to tweak the script to say something like &ldquo;to folder archiveFolderName in folder parentFolderName in Exchange account exchangeAccount&rdquo; and add a parentFolderName variable to the top of the script.</p>
+<p>Now all you have to do is save the script in: "<code>~/Documents/Microsoft User Data/Entourage Script Menu Items/Archive\cA</code>"</p>
+<p>This will put it in your script menu and set the keystroke ctrl+a to &ldquo;Archive&rdquo;.</p>
+<p>Enjoy!</p>
