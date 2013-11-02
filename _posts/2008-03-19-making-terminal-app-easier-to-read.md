@@ -17,6 +17,6 @@ meta:
 ---
 I really like the “Pro” color scheme for Terminal.app but I hate how hard it is to read the bold colors. By complete accident however, I came across this Options Page in Terminal.app:
 
-<img src="https://ericlanderson.com/wp-content/uploads/2008/03/making-termin-easier-to-read.png" alt="making-termin-easier-to-read" width="374" height="351" class="aligncenter size-actual wp-image-249" />
+<img src="/assets/making-terminal-app-easier-to-read/ss.png" alt="making-termin-easier-to-read" width="374" height="351" class="aligncenter size-actual wp-image-249" />
 
 Apparently, you can just click that “Use bright colors for bold text” checkbox and all of a sudden typing things like ls is no longer painful.  Just thought I’d share the tip.
