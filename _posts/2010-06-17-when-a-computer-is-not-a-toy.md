@@ -11,9 +11,13 @@ meta:
   _edit_last: '1'
   _wp_old_slug: ''
 ---
+
 My first computer was a 33mhz Compaq POS. It has Windows 3.1, DOS, and QBasic. (Side note: yes, I got started ‘late’). After I played my first game in QBasic and realized that the words on the screen are what made the game tick, I was hooked and I have been ever since. I think I tinkered with and hacked every single device I could get my hands on. You name it, if it had a way to get custom software on there, I was going to try it.
 
-This morning I came across an article on <a href="http://lifehacker.com/">Lifehacker</a> about <a href="http://lifehacker.com/5563196/turn-your-old-router-into-a-range+boosting-wi+fi-repeater">converting your router into a wifi repeater</a>, which sounded really cool to me, so I started reading. Unfortunately about halfway down the page I realized I couldn’t care less about this.
+This morning I came across an article on [Lifehacker][] about [converting your router into a wifi repeater][], which sounded really cool to me, so I started reading. Unfortunately about halfway down the page I realized I couldn’t care less about this.
+
+[lifehacker]: http://lifehacker.com
+[converting your router into a wifi repeater]: http://lifehacker.com/5563196/turn-your-old-router-into-a-range+boosting-wi+fi-repeater
 
 Sure, I can reuse that old hardware collecting dust in the garage. But why? To save a few bucks? What happens when I’m at work and my wife is at home with the baby and the thing stops working? Now I’m getting phone calls to do tech support because I saved $100 and can do that one “cool” thing that I never actually needed in the first place.
 

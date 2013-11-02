@@ -1,20 +1,10 @@
 ---
 layout: page
 title: About Eric Anderson
-categories: []
-tags: []
-status: publish
-type: page
-published: true
-meta:
-  _edit_last: '1'
-  _wp_page_template: default
-  _aktt_hash_meta: ''
-  aktt_notify_twitter: 'yes'
-  _wpas_done_all: '1'
 ---
-<div class="pull-left" style="padding-right: 2em;">
-  <img src="http://ericlanderson.com/wp-content/uploads/2011/01/me200x200_bw.jpg" alt="" title="Eric Anderson (200x200 BW)" width="200" height="200" class="alignright size-full wp-image-73 photoborder" />
+
+<div class="alignleft">
+  <img src="/assets/about/me200x200_bw.jpg" alt="" title="Eric Anderson (200x200 BW)" width="200" height="200" class="size-actual" />
 </div>
 
 <ul>

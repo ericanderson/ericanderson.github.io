@@ -8,10 +8,8 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _wp_old_slug: ''
-  _edit_last: '1'
 ---
+
 The game is a slight variation on regular Hearts, with a few cards having extra meaning, the possibility for a trick to go around twice, and "special" cards being "charged" (doubling their value). In Turbo Hearts, points are bad.
 
 In Turbo Hearts, the <span style="color: green;">10&clubs;</span> doubles your score final score, the <span style="color: teal;">J&diams;</span> gives you -10 points (good), the Q&spades; is worth 13 points, and each heart is worth 1 point.  "Running" is defined as taking the Q&spades; and all of the hearts. This is equivilant to "shooting the moon" in regular hearts.  Nines are also special in Turbo Hearts; if they are played in suit, they make a trick go around twice.  Charging is a technique that happens before a hand begins that has a few effects:

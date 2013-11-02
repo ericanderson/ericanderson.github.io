@@ -1,39 +1,33 @@
 ---
 layout: post
 title: ! 'MS Office in the App Store: The Business Perspective'
-categories: []
 tags:
 - Business
 - OS X
 - Random Thoughts
-status: publish
 type: post
 published: true
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  _wp_old_slug: ''
-  _aktt_hash_meta: ''
 ---
+
 Microsoft, I hope you’re listening. I’m about to outline every business reason in the world for you to be in the app store.
 
-<h2>From the Student perspective:</h2>
+## From the Student perspective:
 
 Most students need word processing. Fewer need spreadsheets. Fewer still need to give presentations.
 
 Options: $20-$60 for iWork on the App Store, paid with your itunes account that your parents probably pay for or $150 for MS Office Student Edition.
 
-<strong>Winner</strong>: Apple
+**Winner**: Apple
 
-<h2>From the Small Business perspective:</h2>
+## From the Small Business perspective:
 
 Most businesses need word processing and excel. Few need presentations.
 
 Options: $40-$60 for iWork on the App Store or $280 for MS Office for Home and Business.
 
-<strong>Winner</strong>: Apple
+**Winner**: Apple
 
-<h2>From Microsoft’s perspective:</h2>
+## From Microsoft’s perspective:
 
 Best Buy, OfficeMax, Amazon, etc all need to make some profit. From what I can tell from wholesale prices online, most stores will sell you Microsoft products for 15% off. Obviously these companies are still making a profit. I’m guessing that MS sells wholesale at at least 20% off and 30% off wouldn’t be a stretch.
 
@@ -43,6 +37,6 @@ But more important for Microsoft is that they are starting to lose the game. The
 
 Options: Continue to have declining business in the Office arena or slash some prices, join the app store, and give Apple 30%.
 
-<strong>Winner</strong>: I don’t know what Microsoft will choose, but in the first case, it’ll likely be Apple that wins. In the second case, they both win.
+**Winner**: I don’t know what Microsoft will choose, but in the first case, it’ll likely be Apple that wins. In the second case, they both win.
 
 Time will tell.

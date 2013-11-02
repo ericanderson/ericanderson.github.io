@@ -1,7 +1,10 @@
-name: Your New Jekyll Site
+name: Eric L Anderson.com
+description: thoughts, ramblings, etc
 markdown: redcarpet
 pygments: true
 permalink: /entries/:title
+paginate: 5
+paginate_path: "/entries/page/:num"
 
 redcarpet:
   extensions: ['no_intra_emphasis', 'tables', 'strikethrough', 'superscript', 'smart']

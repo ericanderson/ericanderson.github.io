@@ -226,6 +226,13 @@ header nav ul li a {
   margin: 0 auto;
   position: relative;
 }
+#home .title {
+  color: #404040;
+  line-height: 56.24px;
+  font-size: 38px;
+  font-size: 3.8rem;
+  font-weight: 700;
+}
 /* Posts/Articles
 -------------------------------------------------------------- */
 article {

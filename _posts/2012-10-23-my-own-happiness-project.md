@@ -12,15 +12,20 @@ published: true
 meta:
   _edit_last: '1'
 ---
-I recently started <del>reading</del> listening to The Happiness Project (<a href="http://www.amazon.com/gp/product/006158326X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=006158326X&amp;linkCode=as2&amp;tag=adiscourbyeri-20">Paperback</a>, <a href="http://www.amazon.com/gp/product/B002VJ9HRK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B002VJ9HRK&amp;linkCode=as2&amp;tag=adiscourbyeri-20">Kindle</a>, <a href="http://www.audible.com/pd/ref=sr_1_1?asin=B0030MV7MU&amp;qid=1351007193&amp;sr=1-1">Audible</a>) by <a href="http://happiness-project.com">Gretchen Rubin</a> and while I would normally be embarrassed to admit I'm even reading this book, I couldn't help but share it with you due to the immense value its given me so far.
+I recently started <del>reading</del> listening to The Happiness Project ([Paperback][], [Kindle][], [Audible][]) by [Gretchen Rubin](http://happiness-project.com) and while I would normally be embarrassed to admit I'm even reading this book, I couldn't help but share it with you due to the immense value its given me so far.
 
+[paperback]: http://www.amazon.com/gp/product/006158326X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006158326X&linkCode=as2&tag=adiscourbyeri-20
+
+[kindle]: http://www.amazon.com/gp/product/B002VJ9HRK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002VJ9HRK&linkCode=as2&tag=adiscourbyeri-20
+
+[audible]: http://www.audible.com/pd/ref=sr_1_1?asin=B0030MV7MU&qid=1351007193&sr=1-1
 
 
 For one, its reminded me that I want to write for my blog more often, thus providing you with this text (even if I am the only one to read it). More importantly, it has reminded me to take time to not only figure out what I want and what makes me happy, but also what makes me unhappy and the nature of my being. Further more, its inspiring me to not only better understand myself, but to accept who that person is and not be afraid to own who I am.
 
 
 
-Like Gretchen, I have a short fuse, and like Gretchen, <del>acting on that short fuse</del> snapping makes me feel bad about my reactions long after the snapping is done.
+Like Gretchen, I have a short fuse, and like Gretchen, ~~acting on that short fuse~~ snapping makes me feel bad about my reactions long after the snapping is done.
 
 
 
@@ -28,7 +33,7 @@ And like Gretchen, there are plenty of things that I wish I liked but in reality
 
 
 
-<h2>things I enjoy but I don't do (often enough)</h2>
+## things I enjoy but I don't do (often enough)
 
 <ol>
 <li><strong>working out</strong> - I hate going to the gym, but I love how I feel when I'm done. I need to do this <del>more</del> again.</li>
@@ -41,7 +46,7 @@ And like Gretchen, there are plenty of things that I wish I liked but in reality
 <li><strong>watching documentaries</strong> - thats right, I like movies like Helvetica and Jiro Dreams of Sushi</li>
 </ol>
 
-<h2>things I enjoy that I do do</h2>
+## things I enjoy that I do do
 
 <ol>
 <li><strong>making a poop joke every time some says "do do" in a sentence</strong> - and just being silly in general, even if its juvenile</li>
@@ -53,7 +58,7 @@ And like Gretchen, there are plenty of things that I wish I liked but in reality
 <li><strong>watching silly "girl" shows with Ceci</strong> - housewives, fashion shows, etc. What? I'm man enough to admit it.</li>
 </ol>
 
-<h2>things I don't enjoy but I do anyway</h2>
+## things I don't enjoy but I do anyway
 
 <ol>
 <li><strong>going to the opera</strong> - but because my wife enjoys it and I enjoy her company, I can have a good time </li>
@@ -66,12 +71,7 @@ And like Gretchen, there are plenty of things that I wish I liked but in reality
 
 I'm sure I could add a ton to this list and maybe one day I will, but for now you have a much better picture of me than you did, and more importantly, I enjoyed writing it.
 
-
-
 Thanks,
-
-
-
 Eric Anderson (<a href="https://twitter.com/ericlanderson">@ericlanderson</a>)
 
 
