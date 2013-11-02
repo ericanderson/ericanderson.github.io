@@ -18,7 +18,7 @@ meta:
 
 Developers! Developers! Developers!
 
-![Photo of Steve Ballmer from Wired Photostream on flickr][/your-pet-project-doesnt-stand-a-fighting-chance/balmer.jpg]
+![Photo of Steve Ballmer from Wired Photostream on flickr](/assets/your-pet-project-doesnt-stand-a-fighting-chance/balmer.jpg)
 
 Your project is probably doomed to fail, which is sad because I bet its really cool and/or helpful. Sadly though, it doesn't matter how incredible you are pumping out the codez; there is **far** more to a successful project than that. Below are some problems you are likely seeing and how you can improve your projects success. Note: these suggestions are just as valuable in open source as they are in your workplace.
 
