@@ -5,6 +5,7 @@ pygments: true
 permalink: /entries/:title
 paginate: 5
 paginate_path: "/entries/page/:num"
+include: ['.well-known']
 
 redcarpet:
   extensions: ['no_intra_emphasis', 'tables', 'strikethrough', 'superscript', 'smart']
