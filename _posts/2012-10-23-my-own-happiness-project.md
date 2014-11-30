@@ -8,7 +8,7 @@ tags:
 - Thoughts
 status: publish
 type: post
-published: true
+published: false
 meta:
   _edit_last: '1'
 ---
